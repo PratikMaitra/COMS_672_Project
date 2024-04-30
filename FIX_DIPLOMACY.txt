@@ -1,0 +1,5 @@
+export NODE_OPTIONS=--openssl-legacy-provider
+
+python -m diplomacy.server.run --port 4000
+
+python -m diplomacy.server.run --port 4000
