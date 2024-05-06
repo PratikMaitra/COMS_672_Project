@@ -64,6 +64,9 @@ Contributing
 Contributions are welcome! Please submit a pull request with your proposed changes.
 
 ## References
-Anton, et al. Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.
-FAIR, et al. Human-level play in the game of Diplomacy by combining language models with strategic reasoning.
+
+- **Anton et al.** *Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.* NeurIPS 2021.
+
+- **FAIR et al.** *Human-level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning.* Science 2022.
+
 
