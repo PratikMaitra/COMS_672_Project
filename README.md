@@ -39,8 +39,8 @@ Diplomacy requires AI to handle complex interactions and strategies involving mu
 
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
-   cd <repo_folder>
+   git clone https://github.com/PratikMaitra/COMS_672_Project.git
+   cd COMS_672_Project
 Install the required Python packages:
 bash
 Copy code
