@@ -42,20 +42,10 @@ Diplomacy requires AI to handle complex interactions and strategies involving mu
    git clone https://github.com/PratikMaitra/COMS_672_Project.git
    cd COMS_672_Project
 2. Install the required Python packages:
-bash
-Copy code
-pip install -r requirements.txt
 
-Usage
+
+## Usage(optional)
 Prepare your dataset (see Dataset section).
-Train the model:
-bash
-Copy code
-python train.py --dataset <path_to_dataset>
-Use the trained model:
-bash
-Copy code
-python play.py --model <path_to_trained_model>
 
 ## Dataset
 We generated a synthetic dataset by incorporating instructions from CICERO's data and commands from 100 completed Diplomacy games. This dataset contains approximately 20,000 rows of Diplomacy commands.
