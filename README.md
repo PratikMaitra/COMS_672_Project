@@ -20,7 +20,7 @@ A lightweight AI model trained to play Diplomacy, a strategic board game that in
 
 ## Motivation
 
-Diplomacy requires AI to handle complex interactions and strategies involving multiple players. This project aims to build an AI model capable of managing various Diplomacy variants using existing data and state-of-the-art AI techniques.
+An automated Diplomacy roleplay agent requires AI to handle complex interactions and strategies involving multiple players. This project aims to build an AI model capable of managing various Diplomacy variants using existing data and state-of-the-art AI techniques.
 
 ## Project Goals
 
