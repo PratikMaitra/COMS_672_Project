@@ -48,7 +48,7 @@ Diplomacy requires AI to handle complex interactions and strategies involving mu
 Prepare your dataset (see Dataset section).
 
 ## Dataset
-We generated a synthetic dataset by incorporating instructions from CICERO's data and commands from 100 completed Diplomacy games. This dataset contains approximately 20,000 rows of Diplomacy commands.
+We generated a synthetic dataset by incorporating instructions from CICERO's data and commands from 100 completed Diplomacy games. This dataset contains approximately 20,000 rows of Diplomacy commands. The training dataset for our model can be found in the dataset folder of the repository.
 
 ## Model
 The model is based on TinyLlama-1.1B-Chat-v1.0, pre-trained on 3 trillion tokens. Fine-tuning uses PEFT techniques like LoRA to reduce trainable parameters, enabling training on consumer-grade hardware.
