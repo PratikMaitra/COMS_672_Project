@@ -2,7 +2,7 @@
 
 # Tiny Llama Diplomacy Bot
 
-A lightweight AI model trained to play Diplomacy, a strategic board game that involves negotiation, cooperation, and competition. This project leverages parameter-efficient fine-tuning (PEFT) techniques to adapt the model for variant maps and issue effective orders.
+A lightweight AI model trained to play Diplomacy, a strategic board game that involves negotiation, cooperation, and competition. This project leverages parameter-efficient fine-tuning (PEFT) techniques like Low Rank Adaption of LLMs(LoRA) to adapt the model for variant maps and issue effective orders.
 
 ## Table of Contents
 
@@ -55,6 +55,8 @@ The model is based on TinyLlama-1.1B-Chat-v1.0, pre-trained on 3 trillion tokens
 
 ## Results
 The trained Tiny Llama model can issue valid orders in an entire Diplomacy game. While hallucination and gibberish can occur, the model shows promise for strategic reasoning.
+
+We have provided the results of our model on 10 prompts using the temperature setting of 0.1 and 1. The results are stored in the xlsx format within the results folder.
 
 ## Challenges
 Limited availability of high-quality open-source datasets.
