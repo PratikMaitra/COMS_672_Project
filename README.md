@@ -75,7 +75,9 @@ Contributions are welcome! Please submit a pull request with your proposed chang
 - **Anton et al.** *Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning.* NeurIPS 2021.
 
 - **FAIR et al.** *Human-level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning.* Science 2022.
-- **Ding, N.,et al. Parameter-efficient fine-tuning of large-scale pre-trained language models.
-- **Bakhtin, Anton, et al. "No-press diplomacy from scratch." Advances in Neural Information Processing Systems 34 (2021)
+
+- **Ding, N., et al.** *Parameter-efficient fine-tuning of large-scale pre-trained language models.*
+
+- **Bakhtin, Anton, et al.** *"No-press diplomacy from scratch."* Advances in Neural Information Processing Systems 34 (2021).
 
 
