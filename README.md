@@ -56,7 +56,7 @@ We generated a synthetic dataset by incorporating instructions from CICERO's dat
 The model is based on TinyLlama-1.1B-Chat-v1.0, pre-trained on 3 trillion tokens. Fine-tuning uses PEFT techniques like LoRA to reduce trainable parameters, enabling training on consumer-grade hardware.
 
 ## Results
-The trained Tiny Llama model can issue valid orders in an entire Diplomacy game. While hallucination and gibberish can occur, the model shows promise for strategic reasoning.
+The trained Tiny Llama model can issue valid orders in an entire Diplomacy game. While the model is afflicted with hallucinating tendencies and it may provide gibberish commands, the model does show signs of strategic reasoning and can be thought of as proof of concept for further research.
 
 We have provided the results of our model on 10 prompts using the temperature setting of 0.1 and 1. The results are stored in the xlsx format within the results folder.
 
