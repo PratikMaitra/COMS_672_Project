@@ -1,4 +1,5 @@
 # COMS_672_Project
+By Maxim Popov and Pratik Maitra
 
 # Tiny Llama Diplomacy Bot
 
