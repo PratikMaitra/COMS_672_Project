@@ -49,6 +49,8 @@ Prepare your dataset for the particular variant you want to see the LLM roleplay
 
 If you simply want to do inference on the already fine-tuned model use the Jupyter Notebook [TinyllamaDiplo.ipynb] we have provided in the repository. 
 
+If you want to change the default prompt or play around with the prompt settings(like temperature) use the [Tiny_Llama_Inference.py] file.
+
 ## Dataset
 We generated a synthetic dataset by incorporating instructions from CICERO's data and commands from 100 completed Diplomacy games. This dataset contains approximately 20,000 rows of Diplomacy commands. The training dataset for our model can be found in the dataset folder of the repository. The default dataset is based on the World War I (European theatre) diplomacy map.
 
