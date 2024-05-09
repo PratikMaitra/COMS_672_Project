@@ -47,7 +47,7 @@ Diplomacy requires AI to handle complex interactions and strategies involving mu
 ## Usage
 Prepare your dataset for the particular variant you want to see the LLM roleplay (see Dataset section) or use our provided default dataset. Then run the training scripts to train the model.
 
-If you simply want to do inference on the already fine-tuned model use the Jupyter Notebook [ TinyllamaDiplo.ipynb ] we have provided in the repository. 
+If you simply want to do inference on the already fine-tuned model use the Jupyter Notebook [TinyllamaDiplo.ipynb] we have provided in the repository. 
 
 ## Dataset
 We generated a synthetic dataset by incorporating instructions from CICERO's data and commands from 100 completed Diplomacy games. This dataset contains approximately 20,000 rows of Diplomacy commands. The training dataset for our model can be found in the dataset folder of the repository. The default dataset is based on the World War I (European theatre) diplomacy map.
